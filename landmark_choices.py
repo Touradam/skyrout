@@ -10,7 +10,7 @@ landmark_choices = {
     'i': 'Cal State East Bay',
     'j': 'Museum of Main',
     'k': 'Chabot College',
-    'l': 'Fremont Central Park/Lake Elizabeth',
+    'l': 'Lena Toure',
     'm': 'Cal State East Bay-Concord Campus',
     'n': 'Diablo Costa College',
     'o': 'San Mateo County History Museum',
